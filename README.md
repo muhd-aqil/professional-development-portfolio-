@@ -1,4 +1,4 @@
-# Professional Development Portfolio
+,# Professional Development Portfolio
 
 | Field | Details |
 | :--- | :--- |
@@ -9,7 +9,7 @@
 
 ---
 
-## Professional Introduction
+## Introduction
 Hi, I am MUHAMMAD AQIL BIN MOHAMAD, a first year student of Computer Science (Computer Networks and Security) at the Faculty of Computing, Universiti Teknologi Malaysia (UTM).
 
 I am currently studying SECP1513 (Technology and Information System) and building a strong foundation in computing, problem solving, and teamwork. My career goal is to become a software engineer who builds reliable, user-friendly systems that solve everyday problems.
