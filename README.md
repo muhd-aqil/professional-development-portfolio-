@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <div align="center">
   <a href="https://github.com/muhd-aqil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Muhammad+Aqil+bin+Mohamad+%F0%9F%91%8B;Computer+Science+(Networks+%26+Security)+at+UTM;Building+Reliable%2C+User-Friendly+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+MUHAMMAD+AQIL+BIN+MOHAMAD+%F0%9F%91%8B;Computer+Science+(Networks+%26+Security)+at+UTM;Building+Reliable%2C+User-Friendly+Systems" alt="Typing SVG" />
   </a>
 
   <p>
